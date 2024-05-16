@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Lemonada_28.0.0_google";
+  src: url("../fonts/Lemonada-Regular_28.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Lemonada_28.0.0_google";
+  src: url("../fonts/Lemonada-Semibold_28.0.0_google.ttf");
+  font-weight: 600; 
+}
+@font-face {
+  font-family: "Lemonada_28.0.0_google";
+  src: url("../fonts/Lemonada-Bold_28.0.0_google.ttf");
+  font-weight: 700; 
+}
